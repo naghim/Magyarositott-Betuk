@@ -1,0 +1,17 @@
+<div align="center">
+    <img src="https://i.imgur.com/NRnqHgB.png" alt="arvizturo tukorfurogep">
+    <h1>Magyar Betűtípusok Gyűjteménye</h1>
+</div>
+
+Ez a repository az általam magyarosított (kiegészített) betűtípusokat tartalmazza, amelyeket saját célra készítettem.
+
+### Eddig:
+
+**\***-_gal jelölt betűtípusok a román ábécé betűivel is ki lettek egészítve (Ă, Â, Î, Ș, Ț, ă, â, î, ș, ț)_
+
+| Név                            |                                                                Forrás |
+| ------------------------------ | --------------------------------------------------------------------: |
+| Briem Script Std               | [eredeti innen](https://fontsgeek.com/fonts/Briem-Script-Std-Regular) |
+| **\*** Chennai                 |          [eredeti innen](https://fontsgeek.com/fonts/Chennai-Regular) |
+| HYWenHei (Genshin Impact font) |       [eredeti innen](https://www.dafontfree.io/genshin-impact-font/) |
+| Ring Ring                      |                [eredeti innen](https://www.dafont.com/ring-ring.font) |
