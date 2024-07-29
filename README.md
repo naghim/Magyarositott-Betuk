@@ -11,6 +11,8 @@ Ez a repository az általam magyarosított (kiegészített) betűtípusokat tart
 
 | Név                            |                                                                Forrás |
 | ------------------------------ | --------------------------------------------------------------------: |
+| Amaranth (Regular)             |           [eredeti innen](https://fonts.google.com/specimen/Amaranth) |
+| Amaranth (Bold)                |           [eredeti innen](https://fonts.google.com/specimen/Amaranth) |
 | Briem Script Std               | [eredeti innen](https://fontsgeek.com/fonts/Briem-Script-Std-Regular) |
 | **\*** Chennai                 |          [eredeti innen](https://fontsgeek.com/fonts/Chennai-Regular) |
 | HYWenHei (Genshin Impact font) |       [eredeti innen](https://www.dafontfree.io/genshin-impact-font/) |
