@@ -9,12 +9,13 @@ Ez a repository az általam magyarosított (kiegészített) betűtípusokat tart
 
 **\***-_gal jelölt betűtípusok a román ábécé betűivel is ki lettek egészítve (Ă, Â, Î, Ș, Ț, ă, â, î, ș, ț)_
 
-| Név                            |                                                                Forrás |
-| ------------------------------ | --------------------------------------------------------------------: |
-| Amaranth (Regular)             |           [eredeti innen](https://fonts.google.com/specimen/Amaranth) |
-| Amaranth (Bold)                |           [eredeti innen](https://fonts.google.com/specimen/Amaranth) |
-| Briem Script Std               | [eredeti innen](https://fontsgeek.com/fonts/Briem-Script-Std-Regular) |
-| **\*** Chennai                 |          [eredeti innen](https://fontsgeek.com/fonts/Chennai-Regular) |
-| HYWenHei (Genshin Impact font) |       [eredeti innen](https://www.dafontfree.io/genshin-impact-font/) |
-| Happy Monkey                   |       [eredeti innen](https://fonts.google.com/specimen/Happy+Monkey) |
-| Ring Ring                      |                [eredeti innen](https://www.dafont.com/ring-ring.font) |
+| Név                               |                                                                     Forrás |
+| --------------------------------- | -------------------------------------------------------------------------: |
+| Amaranth (Regular)                |                [eredeti innen](https://fonts.google.com/specimen/Amaranth) |
+| Amaranth (Bold)                   |                [eredeti innen](https://fonts.google.com/specimen/Amaranth) |
+| Briem Script Std                  |      [eredeti innen](https://fontsgeek.com/fonts/Briem-Script-Std-Regular) |
+| **\*** Chennai                    |               [eredeti innen](https://fontsgeek.com/fonts/Chennai-Regular) |
+| HYWenHei (Genshin Impact font)    |            [eredeti innen](https://www.dafontfree.io/genshin-impact-font/) |
+| Happy Monkey                      |            [eredeti innen](https://fonts.google.com/specimen/Happy+Monkey) |
+| Ring Ring                         |                     [eredeti innen](https://www.dafont.com/ring-ring.font) |
+| UD Digital Kyokasho NP Regular 02 | [eredeti innen](https://github.com/Bluemoondragon07/UD-Digi-Kyokasho-Font) |
