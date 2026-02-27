@@ -15,6 +15,7 @@ Ez a repository az általam magyarosított (kiegészített) betűtípusokat tart
 | Amaranth (Bold)                   |                [eredeti innen](https://fonts.google.com/specimen/Amaranth) |
 | Briem Script Std                  |      [eredeti innen](https://fontsgeek.com/fonts/Briem-Script-Std-Regular) |
 | **\*** Chennai                    |               [eredeti innen](https://fontsgeek.com/fonts/Chennai-Regular) |
+| DotGothic16 (Regular)             |             [eredeti innen](https://fonts.google.com/specimen/DotGothic16) |
 | HYWenHei (Genshin Impact font)    |            [eredeti innen](https://www.dafontfree.io/genshin-impact-font/) |
 | Happy Monkey                      |            [eredeti innen](https://fonts.google.com/specimen/Happy+Monkey) |
 | Ring Ring                         |                     [eredeti innen](https://www.dafont.com/ring-ring.font) |
